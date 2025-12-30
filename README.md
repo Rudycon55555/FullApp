@@ -2,7 +2,7 @@
 
 <p><strong>Version:</strong> 1.0.0<br />
 <strong>Status:</strong> Ready<br />
-<strong>License:</strong> MIT (for reference implementation and documentation)</p>
+<strong>License:</strong> MIT</p>
 
 <hr />
 
